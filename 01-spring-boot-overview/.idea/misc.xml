@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02-dev-tools-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/06-properties-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/03-dev-actuator-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/05-command-line-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/04-dev-actuator-security-demo/mycoolapp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
