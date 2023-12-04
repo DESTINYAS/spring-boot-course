@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-spring-boot-rest-crud/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/cruddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud-employee - with-spring-data-jpa/cruddemo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud-employee - with-spring-data-rest/cruddemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
